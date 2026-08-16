@@ -3,6 +3,11 @@ rgs = {
     name     = "humana-test"
     location = "westus"
   }
+rg2 = {
+  name = "humana-work"
+  location = "eastus"
+}
+
 
 }
 
