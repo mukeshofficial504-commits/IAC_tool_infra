@@ -1,7 +1,5 @@
 variable "rgs" {}
-variable "stg" {
-
-}
+variable "stg" {}
 
 module "azurerm_resource_group" {
   source = "../child-module/azurerm_resource_group"
